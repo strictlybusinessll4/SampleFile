@@ -1,7 +1,7 @@
 #include "bengas.h"
 
 //the michael function will be located in bengas h
-
+//test
 struct benjamin
 {
 	char lol[5];
